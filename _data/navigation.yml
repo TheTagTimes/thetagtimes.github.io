@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Newspaper"
     url: /posts/
-  - title: "Categories"
+  - title: "Podcast"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
