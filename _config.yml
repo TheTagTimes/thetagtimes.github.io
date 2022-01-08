@@ -30,6 +30,12 @@ paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Singapore
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-C3RGTVBHPW"
+    anonymize_ip: false # default
+
 include:
   - _pages
 
