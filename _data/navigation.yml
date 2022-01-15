@@ -1,7 +1,7 @@
 main:
   - title: "Newspaper"
-    url: #test-link
+    url: /newspaper/
   - title: "Podcast"
-    url: #test-link
+    url: /podcast/
   - title: "About"
     url: /about/
