@@ -14,10 +14,4 @@ The Tag Times is a newspaper.
 <a href="https://thetagtimes.github.io/newspaper/tttimes_february_2022/" target="_blank" class="btn--inverse">2022 February Issue</a>
 
 
-
-
-
-
-
-
 Last Updated: 20 March 2022
