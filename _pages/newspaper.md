@@ -7,7 +7,7 @@ title: "The Tag Times Newspaper"
 
 
 
-<a href="https://thetagtimes.github.io/newspaper/tttimes_december_2021/" target="_blank" class="btn--inverse">2021 December Issue</a>
+<a href="https://thetagtimes.github.io/newspaper/tttimes_december_2021/" target="_blank">2021 December Issue</a>
 
 <a href="https://thetagtimes.github.io/newspaper/tttimes_january_2022/" target="_blank" class="btn--inverse">2022 January Issue</a>
 
