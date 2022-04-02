@@ -1,6 +1,6 @@
 ---
 title: Newspaper
-layout: tag
+layout: category
 permalink: /newspaper/
 taxonomy: newspaper
 ---
