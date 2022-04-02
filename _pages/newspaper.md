@@ -1,16 +1,8 @@
 ---
+title: Newspaper
+layout: tag
 permalink: /newspaper/
-title: "The Tag Times Newspaper"
+taxonomy: newspaper
 ---
 
-**The Tag Times** is a newspaper.
-
-
-
-<a href="https://thetagtimes.github.io/newspaper/tttimes_december_2021/" target="_blank">2021 December Issue</a>
-
-<a href="https://thetagtimes.github.io/newspaper/tttimes_january_2022/" target="_blank">2022 January Issue</a>
-
-<a href="https://thetagtimes.github.io/newspaper/tttimes_february_2022/" target="_blank">2022 February Issue</a>
-
-<a href="https://thetagtimes.github.io/newspaper/tttimes_march_2022/" target="_blank">2022 March Issue</a>
+Here are all the issues for The Tag Times!
