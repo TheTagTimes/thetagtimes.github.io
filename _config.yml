@@ -68,13 +68,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "thetagtimes@gmail.com"
+      url: "mailto:thetagtimes@gmail.com"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "thetagtimes@gmail.com"
+      url: "mailto:thetagtimes@gmail.com"
 
 defaults:
   # _posts
