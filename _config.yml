@@ -62,9 +62,9 @@ plugins:
   - jekyll-archives
 
 author:
-  name   : "The Tag Times Community"
+  name   : "The Tag Times"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Some former TAG class people doing news stuff"
+  bio    : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
