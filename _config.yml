@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "The Tag Times"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ttt2022square.png"
   bio    : ""
   links:
     - label: "Email"
